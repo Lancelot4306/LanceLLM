@@ -1,0 +1,14 @@
+# Python environment
+.venv/
+env/
+venv/
+__pycache__/
+
+# Large model weights (Don't push these to GitHub!)
+*.pth
+*.bin
+*.pt
+
+# Chainlit/Streamlit caches or logs
+.chainlit/
+*.log
