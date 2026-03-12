@@ -12,3 +12,5 @@ __pycache__/
 # Chainlit/Streamlit caches or logs
 .chainlit/
 *.log
+
+steps_to_begin.txt
