@@ -1,5 +1,7 @@
 # MyLLM2: Large Language Model from Scratch
 
+> "What I cannot create, I do not understand." — Richard Feynman
+
 Welcome to my implementation of a GPT-style language model built from scratch using PyTorch. This project follows the architecture and training methodology from Sebastian Raschka’s *"Build a Large Language Model (from Scratch)."*
 
 ## Getting Started
