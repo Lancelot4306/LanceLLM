@@ -1,4 +1,4 @@
-# MyLLM2: Large Language Model from Scratch
+# LanceLLM: Large Language Model from Scratch
 
 > "What I cannot create, I do not understand." — Richard Feynman
 
