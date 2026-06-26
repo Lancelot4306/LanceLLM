@@ -1,0 +1,46 @@
+# Before finetuning
+Training loss: 4.167123603820801
+Validation loss: 4.050918817520142
+
+# After finetuning
+Training loss: 0.4401353359222412
+Validation loss: 0.7419605255126953
+
+
+
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Rewrite the sentence using a simile.
+
+### Input:
+The car is very fast.
+
+Correct response:
+>> The car is as fast as lightning.
+
+Model response:
+>> The car is as fast as a horse.
+-------------------------------------
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of cloud is typically associated with thunderstorms?
+
+Correct response:
+>> The type of cloud typically associated with thunderstorms is cumulonimbus.
+
+Model response:
+>> The type of cloud typically associated with thunderstorms is a tropical rainforest.
+-------------------------------------
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Name the author of 'Pride and Prejudice'.
+
+Correct response:
+>> Jane Austen.
+
+Model response:
+>> The author of 'Pride and Prejudice' is Robert Frost.
+-------------------------------------
